@@ -21,7 +21,7 @@ Construindo sistemas seguros, escaláveis e orientados a lógica, estrutura e im
 
 Sou Adilson Junior, também conhecido como **Cinco**.
 
-Atualmente atuo como desenvolvedor em formação com foco em **backend e engenharia de software**, construindo conhecimento sólido em APIs, modelagem de sistemas e arquitetura de aplicações.
+Atualmente, sou um desenvolvedor em formação com foco em **backend e engenharia de software**, construindo uma base sólida em APIs, modelagem de sistemas e arquitetura de aplicações.
 
 Minha trajetória combina:
 
