@@ -41,33 +41,61 @@ Que problemas eu resolvo:
 
 ---
 
-## 3) Stack Tecnica por Camadas
+## 3) Stack Tecnologica
 
-### Backend
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🧠 Backend (core de atuacao)
+
 <p>
   <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### Linguagens
+### 💻 Linguagens de programacao
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Infra e Ferramentas
+    </td>
+    <td valign="top" width="50%">
+
+### 🗄️ Banco de dados
+
 <p>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-111827?style=for-the-badge&logo=git&logoColor=white" alt="Git e GitHub" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### Frontend Basico
+### 🔧 Ferramentas de desenvolvimento
+
 <p>
-  <img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-111827?style=for-the-badge&logo=git&logoColor=white" alt="Git e GitHub" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </p>
+
+### 🌐 Frontend basico (base de suporte)
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+    </td>
+  </tr>
+</table>
+
+### 📱 Diferencial de desenvolvimento mobile
+
+- Programacao e pratica de desenvolvimento diretamente em ambiente Android.
+- Uso de celular como ambiente de estudo e prototipagem.
+- Flexibilidade para codar, estudar e testar conceitos em qualquer lugar.
+- Disciplina para manter evolucao tecnica mesmo sem depender de desktop.
 
 ---
 
