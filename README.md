@@ -49,6 +49,9 @@ Meu foco é evoluir como engenheiro de software, unindo lógica, arquitetura e s
 
 # 🎓 Formação e Aprendizado
 
+- **Análise e Desenvolvimento de Sistemas (ADS) — Cruzeiro do Sul**
+  - 3º semestre
+
 - **Bootcamp DIO + Santander**
   - Cybersecurity
   - Banco de Dados
