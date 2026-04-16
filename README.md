@@ -106,41 +106,111 @@ Tenho interesse direto em **desenvolvimento de software**, **seguranca da inform
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5inco-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5inco-dev&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5inco-dev&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=5inco-dev&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5inco-dev&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5inco-dev&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5inco-dev&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
-> Cards conectados ao usuario **5inco-dev**.
+<details>
+  <summary><strong>Opcional: GitHub Metrics (visual avancado)</strong></summary>
+
+```yml
+name: Metrics
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: 5inco-dev
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+```
+
+</details>
+
+> Tema aplicado: **Dracula + React Dark**, alinhado com esthetica de dev.
 
 ---
 
 ## Contato
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/adilson-junior" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Adilson%20Junior-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/5inco-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Cinco-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:dev.adilsonj@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://5inco-dev.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%2FContato-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-## Sugestoes de Melhorias Visuais
+## Checklist de Melhorias Visuais
 
-- Manter padrao de badges em estilo for-the-badge para reforcar consistencia visual.
-- Usar entre 2 e 4 emojis no README inteiro para destacar secoes sem poluicao visual.
-- Inserir miniaturas (GIF curto) em projetos chave para aumentar taxa de leitura.
-- Adicionar pin de 3 repositorios no perfil para alinhar com a secao de projetos.
-- Atualizar a secao de objetivos e stats a cada 30 dias para mostrar evolucao continua.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### Branding
+
+- [x] 🎯 Paleta sobria (preto, grafite e azul marinho).
+- [x] 🧩 Badges padronizados em `for-the-badge`.
+- [ ] ✨ Adicionar 2 emojis estrategicos em titulos-chave.
+
+### Conteudo
+
+- [x] 📊 Stats em tema Dracula + grafico dark.
+- [ ] 📌 Fixar 3 repositorios principais no perfil.
+- [ ] 🔁 Revisar objetivos a cada 30 dias.
+
+  </td>
+  <td valign="top" width="50%">
+
+### Performance do README
+
+- [x] 🧱 Layout escaneavel em secoes curtas.
+- [ ] 🎬 Inserir 1 GIF curto em projeto principal.
+- [ ] 🧼 Manter descricoes de projeto com foco em impacto.
+
+### Qualidade de apresentacao
+
+- [ ] 🧪 Atualizar stats semanalmente com novos commits.
+- [ ] 🧠 Priorizar projetos com problema real resolvido.
+- [ ] 🚀 Publicar portfolio para ativar badge de contato.
+
+  </td>
+  </tr>
+</table>
+
+### Como hospedar GIF curto sem deixar o README pesado
+
+- Gere o GIF entre **3s e 8s**, resolucao aproximada de **960x540** e menos de **8 MB**.
+- Hospede no proprio repositório em `assets/demo/` para estabilidade de link.
+- Comprima com `ffmpeg` antes de subir:
+
+```bash
+ffmpeg -i demo.mp4 -vf "fps=12,scale=960:-1:flags=lanczos" -loop 0 demo.gif
+```
+
+- Opcao mais leve: converter para MP4/WebM e usar thumbnail no README com link para o video.
 
 ---
 
