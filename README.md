@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1220,50:111827,100:1F2937&text=Cinco%20%7C%20Adilson%20Junior&fontColor=E5E7EB&fontSize=36&fontAlignY=36&desc=Backend%20Engineer%20in%20formation%20%7C%20Systems%20Architecture%20%7C%20Secure%20APIs&descAlignY=58&descSize=14" alt="header" />
 </p>
 
-<h3 align="center">Backend Developer em formacao com foco em arquitetura de sistemas, APIs seguras e analise de requisitos tecnicos e de negocio</h3>
+<h3 align="center">Backend Developer em formacao com foco em APIs, arquitetura de sistemas, modelagem e seguranca aplicada</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Marca-Cinco-111827?style=for-the-badge" alt="Marca" />
@@ -14,9 +14,9 @@
 
 ## 1) Header
 
-Construo servicos backend e APIs REST para fluxos de negocio que exigem previsibilidade, seguranca aplicada e manutencao simples.
+Construo APIs REST e servicos backend com foco em estrutura, consistencia e seguranca aplicada.
 
-Como marca de engenharia, **Cinco** representa estrutura tecnica, decisoes orientadas por requisitos e foco em entrega funcional.
+Como marca tecnica, **Cinco** representa backend, sistemas bem modelados e engenharia aplicada a problemas reais.
 
 ---
 
@@ -56,14 +56,14 @@ Que problemas eu resolvo:
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Infra / Ferramentas
+### Infra e Ferramentas
 <p>
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-111827?style=for-the-badge&logo=git&logoColor=white" alt="Git e GitHub" />
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### Frontend Basico (Secundario)
+### Frontend Basico
 <p>
   <img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -73,77 +73,85 @@ Que problemas eu resolvo:
 
 ## 4) Engenharia de Software
 
-- UML aplicada a fluxos reais: casos de uso, classes e sequencia.
-- Modelagem de APIs com contratos claros de request/response.
-- Arquitetura REST com recursos, verbos HTTP e codigos de status coerentes.
-- Boas praticas de backend: SOLID basico, separacao por camadas e estrutura modular.
+- UML aplicada a sistemas reais: casos de uso, classes e sequencia.
+- Modelagem de APIs REST com contratos claros de request/response.
+- Arquitetura em camadas: Controller, Service e Repository.
+- Boas praticas de codigo limpo: SOLID basico, separacao de responsabilidades e estrutura modular.
 - Versionamento e organizacao de projetos para evolucao incremental.
 
 ---
 
-## 5) Mermaid - Fluxo Tecnico de API Segura
+## 5) Modelagem e Visualizacao com Mermaid
 
 ```mermaid
 flowchart TD
-    A[Cliente Web/Mobile] --> B[API Gateway/Controller]
-  B --> C{Validacao e Sanitizacao de Entrada}
-    C -- invalida --> D[Retorna 400 com detalhes]
+    A[Cliente Web/Mobile] --> B[Controller]
+    B --> C{Validacao de Entrada}
+    C -- invalida --> D[Retorna 400]
     C -- valida --> E[Autenticacao JWT]
     E -- token invalido --> F[Retorna 401]
-    E -- token valido --> G[Autorizacao por Role]
+    E -- token valido --> G[Autorizacao Basica]
     G -- negado --> H[Retorna 403]
-    G -- permitido --> I[Service Layer]
+    G -- permitido --> I[Service]
     I --> J[Regras de Negocio]
-  J --> P[Rate Limit Basico]
-  P --> K[Repository]
+    J --> K[Repository]
     K --> L[(Banco de Dados)]
-  J --> M[Auditoria e Logs Estruturados]
-    M --> N[Monitoramento Basico]
-  L --> O[Response Padronizada com Codigos HTTP]
-    O --> A
+    J --> M[Logs e Auditoria]
+    L --> N[Resposta Padronizada]
+    N --> A
 ```
 
 ---
 
-## 6) Seguranca Aplicada em APIs
+## 6) Seguranca Aplicada
 
-- Validacao e sanitizacao de entrada para reduzir risco de payload malformado.
-- Autenticacao e autorizacao com JWT e controle de permissao por rota.
-- Testes de API no Postman cobrindo cenarios positivos, negativos e nao autorizados.
-- Atencao pratica ao OWASP Top 10, com foco em autenticacao, validacao e exposicao de dados.
+- Validacao de entrada para reduzir risco de payload malformado.
+- Autenticacao e autorizacao basica com JWT ou mecanismo equivalente.
+- Testes de API com Postman cobrindo cenarios positivos e negativos.
+- Consciencia das vulnerabilidades comuns do OWASP Top 10.
 
 ---
 
 ## 7) Roadmap Tecnico
 
-- Construir APIs REST completas com Java/Spring Boot (CRUD, filtros, paginacao e tratamento de erros).
-- Integrar persistencia com banco relacional e consultas orientadas a desempenho.
-- Aplicar seguranca basica em endpoints sensiveis (JWT, roles e validacao de entrada).
-- Evoluir estrutura de projeto Spring Boot para padrao de producao (camadas, DTOs e excecoes).
-- Usar Python para automacao de tarefas de backend e apoio operacional.
-- Modelar sistemas reais com UML e fluxos de negocio antes da implementacao.
+- Construir APIs REST completas com Java/Spring Boot.
+- Integrar bancos de dados relacionais e consultas estruturadas.
+- Evoluir Spring Boot com DTOs, exceptions e organizacao de camadas.
+- Aplicar Python em automacao e apoio a backend.
+- Modelar sistemas reais com UML antes da implementacao.
+- Aplicar seguranca basica em APIs desde a concepcao.
 
 ---
 
-## 8) Projetos Tecnicos (Estrutura)
+## 8) 🧪 Engineering Lab
 
-### Projeto A - API de Gestao Operacional
-- Arquitetura: camadas (controller/service/repository).
-- Problema resolvido: centralizar operacoes e reduzir retrabalho manual entre equipes.
-- Endpoints/fluxo: autenticacao, CRUD de entidades, filtros, paginacao e auditoria basica.
-- Stack: Java, Spring Boot, SQL, Postman, GitHub.
+### Backend APIs (Java / Spring Boot)
+- Foco: construcao de APIs REST com camadas bem definidas.
+- Evolucao: CRUD, validacao, tratamento de erro e estrutura de projeto.
+- Estudo: controller, service, repository, DTOs e excecoes.
 
-### Projeto B - Servico de Autenticacao e Autorizacao
-- Arquitetura: API REST com JWT e middleware de permissao.
-- Problema resolvido: proteger rotas e controlar acesso por perfil.
-- Endpoints/fluxo: login, refresh, validacao de token e autorizacao por role.
-- Stack: Node.js, JavaScript, SQL/NoSQL, Postman.
+### Node.js APIs
+- Foco: rotas REST e manipulacao de dados em backend simples.
+- Evolucao: estrutura de endpoints, middlewares e organizacao de fluxo.
+- Estudo: autenticacao basica, respostas padronizadas e integracao com dados.
 
-### Projeto C - Automacao de Rotinas Backend
-- Arquitetura: scripts modulares para tarefas repetitivas.
-- Problema resolvido: reduzir tempo operacional e erros manuais em processos tecnicos.
-- Endpoints/fluxo: leitura de dados, validacao, processamento e geracao de saida.
-- Stack: Python, Linux, Git.
+### Python (Automacao e Estudos Aplicados)
+- Foco: scripts para automacao e apoio a backend.
+- Evolucao: processamento de dados, leitura de arquivos e tarefas repetitivas.
+- Estudo: logica aplicada e produtividade tecnica.
+
+### Modelagem de Sistemas (UML & Mermaid)
+- Foco: diagramacao antes do codigo.
+- Evolucao: fluxos, APIs, autenticacao e arquitetura backend.
+- Estudo: estrutura de sistemas reais e representacao visual de requisitos.
+
+### API Testing (Postman)
+- Foco: teste de endpoints REST e validacao de respostas.
+- Evolucao: cenarios positivos, negativos e de seguranca basica.
+- Estudo: contratos de API, status code e consistencia de retorno.
+
+### Status
+- Todos os itens representam pratica ativa de engenharia de software em evolucao continua.
 
 ---
 
@@ -163,10 +171,11 @@ flowchart TD
 
 ## 10) Mindset de Engenharia
 
-- Sistemas devem ser previsiveis, observaveis e auditaveis.
-- Codigo deve ser legivel, testavel e preparado para evolucao.
-- Seguranca comeca na arquitetura, nao na etapa final.
-- Software de qualidade resolve problema de negocio com estrutura tecnica.
+- Software deve ser tratado como sistema estruturado.
+- Seguranca deve fazer parte da arquitetura.
+- Codigo limpo deve ser padrao, nao excecao.
+- Sistemas devem ser previsiveis, escalaveis e mantiveis.
+- O objetivo e resolver problemas reais com engenharia.
 
 ---
 
