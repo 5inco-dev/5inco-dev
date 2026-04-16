@@ -127,16 +127,15 @@ Objetivo central: construir sistemas seguros, bem estruturados e escalaveis.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5inco-dev&show_icons=true&theme=dracula&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5inco-dev&layout=compact&theme=dracula&hide_border=true" alt="langs" />
-</p>
+![Cinco Stats](https://github-readme-stats.vercel.app/api?username=5inco-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=5inco-dev&theme=dracula&hide_border=true" alt="streak" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5inco-dev&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/5inco-dev/5inco-dev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
