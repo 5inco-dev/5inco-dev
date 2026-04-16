@@ -135,7 +135,7 @@ Objetivo central: construir sistemas seguros, bem estruturados e escalaveis.
 </p>
 
 <p align="center">
-  <img src="https://github.com/5inco-dev/5inco-dev/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/5inco-dev/5inco-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
