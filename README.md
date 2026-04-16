@@ -1,165 +1,170 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a192f,50:0b2545,100:13315c&text=Cinco%20%7C%20Adilson%20Junior&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Backend%20Developer%20in%20formation%20%7C%20Java%20Node.js%20Web&descAlignY=56&descSize=16" alt="Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1220,50:111827,100:1F2937&text=Cinco%20%7C%20Adilson%20Junior&fontColor=E5E7EB&fontSize=36&fontAlignY=36&desc=Software%20%2B%20Systems%20%2B%20Security%20%2B%20Business%20Analysis&descAlignY=58&descSize=14" alt="header" />
+</p>
+
+<h3 align="center">Desenvolvedor em formacao avancada com foco em backend, engenharia de software e seguranca</h3>
+
+<p align="center">
+  Transformo logica, arquitetura e visao de negocio em sistemas seguros, escalaveis e orientados a impacto.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=850&lines=Desenvolvedor+em+formacao+com+foco+em+backend+e+web;Construindo+projetos+reais+com+Java%2C+Node.js+e+JavaScript;Evolucao+continua+com+disciplina%2C+consistencia+e+visao+de+produto" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/5inco-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/adilson-junior" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Junior%20Roles-198754?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Marca-Cinco-111827?style=for-the-badge" alt="marca" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internship%20%26%20Junior%20Roles-1F2937?style=for-the-badge" alt="status" />
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou **Junior (Adilson Junior)**, tambem conhecido como **Cinco**. Estou em formacao como desenvolvedor com foco em **Java**, **Node.js** e **desenvolvimento web**, construindo uma base tecnica consistente para atuar em backend e evoluir para projetos cada vez mais robustos.
+Sou Junior (Adilson Junior), tambem conhecido como Cinco. Estou evoluindo como profissional hibrido entre desenvolvimento, engenharia de software, seguranca da informacao e analise de negocios.
 
-Tenho interesse direto em **desenvolvimento de software**, **seguranca da informacao** e boas praticas de engenharia. Meu objetivo e construir uma carreira solida em tecnologia, mantendo aprendizado continuo e entregas com qualidade.
+Minha trilha combina construcao tecnica com pensamento sistemico: backend e web para entrega, arquitetura e modelagem para consistencia, cybersecurity para resiliencia e analise de sistemas para alinhamento com o negocio.
+
+Estudo ethical hacking com foco etico, defensivo e ofensivo controlado para entender vulnerabilidades e projetar solucoes mais seguras desde a base.
 
 ---
 
-## Perfil Profissional
+## Stack Tecnologica
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### O que eu entrego
-
-- Codigo organizado e legivel.
-- Evolucao tecnica com constancia.
-- Foco em fundamentos de backend.
-- Compromisso com qualidade e melhoria continua.
-
-### Objetivos atuais
-
-- Aprimorar arquitetura de APIs com Java e Node.js.
-- Construir projetos completos com autenticacao, banco de dados e deploy.
-- Aplicar praticas basicas de seguranca desde o desenvolvimento.
-- Consolidar portfolio com projetos orientados a problema real.
-
-  </td>
-  <td valign="top" width="50%">
-
-### Stack de Tecnologias
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git e GitHub" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-111827?style=for-the-badge&logo=git&logoColor=white" alt="Git e GitHub" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-  </td>
-  </tr>
-</table>
+---
+
+## Modelagem e Engenharia de Software
+
+- UML aplicada a casos de uso, classes e sequencia.
+- Modelagem de sistemas para clareza de regras e fluxos.
+- Arquitetura de software com foco em modularidade e escalabilidade.
+- Boas praticas: separacao de responsabilidades, padroes de projeto e versionamento limpo.
 
 ---
 
-## Projetos em Destaque
+## Visualizacao de Sistemas com Mermaid
 
-> Estrutura ja preparada com 3 projetos de impacto para voce substituir os links pelos repositorios reais.
+Utilizo Mermaid.js para representar fluxos, arquitetura e processos de negocio de forma clara e auditavel.
 
-### 1) TaskFlow API
-
-- **Descricao:** API REST para gerenciamento de tarefas com CRUD completo, filtros por status e organizacao por usuario.
-- **Stack:** Node.js, Express, MongoDB, JWT.
-- **Diferencial:** foco em padrao de camadas, validacao de entrada e estrutura escalavel.
-- **Repositorio:** [Adicionar link](https://github.com/5inco-dev/taskflow-api)
-
-### 2) SecureAuth Service
-
-- **Descricao:** servico de autenticacao com registro, login e controle de acesso baseado em token.
-- **Stack:** Java, Spring Boot, PostgreSQL, Spring Security.
-- **Diferencial:** aplicacao de boas praticas de seguranca e organizacao de regras de negocio.
-- **Repositorio:** [Adicionar link](https://github.com/5inco-dev/secureauth-service)
-
-### 3) Portfolio Landing Pro
-
-- **Descricao:** landing page de apresentacao profissional com foco em performance, responsividade e clareza de proposta.
-- **Stack:** HTML, CSS, JavaScript.
-- **Diferencial:** design clean, estrutura semantica e otimizada para recrutadores.
-- **Repositorio:** [Adicionar link](https://github.com/5inco-dev/portfolio-landing-pro)
-
-### Template rapido para novos projetos
-
-```md
-### Nome do Projeto
-- Descricao: o que resolve e para quem.
-- Stack: tecnologias principais.
-- Diferencial: aprendizado tecnico e impacto pratico.
-- Link: [Repositorio](https://github.com/5inco-dev/NOME_DO_REPOSITORIO)
+```mermaid
+flowchart LR
+    A[Requisito de Negocio] --> B[Analise de Sistema]
+    B --> C[Modelagem UML]
+    C --> D[Arquitetura Backend]
+    D --> E[Implementacao Java/Spring ou Node.js]
+    E --> F[Testes de API com Postman]
+    F --> G[Revisao de Seguranca]
+    G --> H[Entrega de Valor]
 ```
+
+---
+
+## Foco Atual (Roadmap de Estudos)
+
+- Backend com Java e Spring Boot.
+- Python para automacao e scripts tecnicos.
+- Estruturacao de APIs REST e testes com Postman.
+- Modelagem de sistemas com UML e diagramacao com Mermaid.
+- Seguranca da informacao com fundamentos de ethical hacking.
+- Analise de requisitos e processos de negocio orientados a tecnologia.
+
+---
+
+## Perfil Profissional Hibrido
+
+Atuo em formacao como um perfil que conecta tecnologia e estrategia:
+
+- Desenvolvedor backend para construir servicos consistentes.
+- Analista de sistemas e negocios para mapear necessidades reais.
+- Estudante de engenharia de software para desenhar solidez arquitetural.
+- Entusiasta de cybersecurity para aumentar resiliencia e confiabilidade.
+
+Objetivo central: construir sistemas seguros, bem estruturados e escalaveis.
+
+---
+
+## Projetos (Estrutura Futura)
+
+### APIs Backend (Java / Spring Boot / Node.js)
+- Projeto:
+- Problema que resolve:
+- Stack:
+- Link:
+
+### Scripts Python (Automacao e Analise)
+- Projeto:
+- Automacao aplicada:
+- Insight tecnico:
+- Link:
+
+### Seguranca e Testes de API
+- Projeto:
+- Escopo de seguranca/testes:
+- Ferramentas:
+- Link:
+
+### Modelagem de Sistemas (UML e Mermaid)
+- Projeto:
+- Diagramas produzidos:
+- Decisoes de arquitetura:
+- Link:
+
+### Projetos Academicos e Portfolio
+- Projeto:
+- Contexto:
+- Entregaveis:
+- Link:
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5inco-dev&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=5inco-dev&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5inco-dev&show_icons=true&theme=dracula&hide_border=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5inco-dev&layout=compact&theme=dracula&hide_border=true" alt="langs" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5inco-dev&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5inco-dev&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=5inco-dev&theme=dracula&hide_border=true" alt="streak" />
 </p>
 
-<details>
-  <summary><strong>Opcional: GitHub Metrics (visual avancado)</strong></summary>
+---
 
-```yml
-name: Metrics
-on:
-  schedule: [{cron: "0 */12 * * *"}]
-  workflow_dispatch:
+## Mindset Profissional
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          user: 5inco-dev
-          template: classic
-          base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_details: bytes-size, percentage
-```
-
-</details>
-
-> Tema aplicado: **Dracula + React Dark**, alinhado com esthetica de dev.
+- Pensamento analitico e sistemico para resolver problemas complexos.
+- Seguranca como fundamento tecnico de qualquer sistema serio.
+- Visao de negocio aplicada a decisoes de arquitetura e produto.
+- Evolucao continua com estudo disciplinado e pratica real.
+- Compromisso com solucoes escalaveis, legiveis e sustentaveis.
 
 ---
 
 ## Contato
 
 <p align="center">
+  <a href="https://github.com/5inco-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/adilson-junior" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/5inco-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:dev.adilsonj@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-  <a href="https://5inco-dev.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%2FContato-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/E--mail-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
 
 ---
+
+> Cinco: engenharia com logica, seguranca por principio, sistemas com proposito.
 
