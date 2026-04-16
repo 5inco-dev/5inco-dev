@@ -1,89 +1,113 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1220,50:111827,100:1F2937&text=Cinco%20%7C%20Adilson%20Junior&fontColor=E5E7EB&fontSize=36&fontAlignY=36&desc=Backend%20Engineer%20in%20formation%20%7C%20Systems%20Architecture%20%7C%20Secure%20APIs&descAlignY=58&descSize=14" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1220,50:111827,100:1F2937&text=Cinco%20%7C%20Adilson%20Junior&fontColor=E5E7EB&fontSize=36&fontAlignY=36&desc=Backend%20%2B%20Systems%20%2B%20Security%20%2B%20Business%20Analysis&descAlignY=58&descSize=14" />
 </p>
 
-<h3 align="center">Backend Developer em formacao com foco em APIs, arquitetura de sistemas, modelagem e seguranca aplicada</h3>
+<h3 align="center">
+Backend Engineer em formação | APIs • Arquitetura de Sistemas • Segurança Aplicada
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Marca-Cinco-111827?style=for-the-badge" alt="Marca" />
-  <img src="https://img.shields.io/badge/Foco-Java%20Spring%20Boot%20Node.js-1F2937?style=for-the-badge" alt="Foco" />
-  <img src="https://img.shields.io/badge/Objetivo-Backend%20Engineering-0F172A?style=for-the-badge" alt="Objetivo" />
+Construindo sistemas seguros, escaláveis e orientados a lógica, estrutura e impacto de negócio.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Marca-Cinco-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internship-1F2937?style=for-the-badge" />
 </p>
 
 ---
 
-## 1) Header
+# 🧠 Sobre mim
 
-Construo APIs REST e servicos backend com foco em estrutura, consistencia e seguranca aplicada.
+Sou Adilson Junior, também conhecido como **Cinco**.
 
-Como marca tecnica, **Cinco** representa backend, sistemas bem modelados e engenharia aplicada a problemas reais.
+Atualmente atuo como desenvolvedor em formação com foco em **backend e engenharia de software**, construindo conhecimento sólido em APIs, modelagem de sistemas e arquitetura de aplicações.
 
----
+Minha trajetória combina:
 
-## 2) Sobre Mim
+- Desenvolvimento backend (Java, Spring Boot e Node.js)
+- Estruturação de APIs REST
+- Fundamentos de segurança da informação
+- Análise de sistemas e requisitos de negócio
 
-Sou **Adilson Junior (Cinco)**, em formacao voltada para backend. Meu foco principal e projetar e implementar APIs REST com Java/Spring Boot e Node.js.
-
-O que eu construo:
-- APIs para cadastro, autenticacao, consulta e regras de negocio.
-- Estruturas de projeto organizadas por camadas.
-- Fluxos com validacao de entrada, tratamento de erro e padrao de resposta.
-
-Como eu construo:
-- Modelagem de requisitos antes da implementacao.
-- Separacao clara entre controller, service e repository.
-- Versionamento com Git e documentacao de endpoints.
-
-Que problemas eu resolvo:
-- Sistemas sem padrao de arquitetura.
-- APIs sem consistencia de contratos.
-- Regras de negocio dispersas, com alto custo de manutencao.
+Tenho interesse em construir sistemas bem estruturados, seguros e escaláveis, sempre alinhando tecnologia com problemas reais.
 
 ---
 
-## 3) Stack Tecnologica
+# 🎯 Objetivo profissional
+
+Busco oportunidade de estágio ou posição júnior em:
+
+- Desenvolvimento Backend
+- Engenharia de Software
+- Segurança de APIs
+- Análise de Sistemas
+
+Meu foco é evoluir como engenheiro de software, unindo lógica, arquitetura e segurança na construção de sistemas reais.
+
+---
+
+# 🎓 Formação e Aprendizado
+
+- **Bootcamp DIO + Santander**
+  - Cybersecurity
+  - Banco de Dados
+  - Fundamentos de segurança e infraestrutura
+
+- **Cisco Networking Academy**
+  - Cybersecurity Fundamentals (em andamento)
+
+- Estudos complementares:
+  - Java / Spring Boot
+  - Node.js
+  - Python
+  - Modelagem de sistemas (UML e Mermaid)
+
+---
+
+# 🧰 Stack Tecnológica
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-### 🧠 Backend (core de atuacao)
+### 🧠 Backend (Core de atuação)
 
 <p>
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 💻 Linguagens de programacao
+### 💻 Linguagens de Programação
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
     </td>
     <td valign="top" width="50%">
 
-### 🗄️ Banco de dados
+### 🗄️ Banco de Dados
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🔧 Ferramentas de desenvolvimento
+### 🔧 Ferramentas de Desenvolvimento
 
 <p>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-111827?style=for-the-badge&logo=git&logoColor=white" alt="Git e GitHub" />
-  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-111827?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-### 🌐 Frontend basico (base de suporte)
+### 🌐 Frontend (Base de suporte)
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
     </td>
@@ -92,137 +116,96 @@ Que problemas eu resolvo:
 
 ### 📱 Diferencial de desenvolvimento mobile
 
-- Programacao e pratica de desenvolvimento diretamente em ambiente Android.
-- Uso de celular como ambiente de estudo e prototipagem.
-- Flexibilidade para codar, estudar e testar conceitos em qualquer lugar.
-- Disciplina para manter evolucao tecnica mesmo sem depender de desktop.
+- Programação e prática de desenvolvimento diretamente em ambiente Android
+- Uso de celular como ambiente de estudo e prototipagem
+- Flexibilidade para codar, estudar e testar conceitos em qualquer lugar
+- Mentalidade de desenvolvimento contínuo independente de infraestrutura
 
 ---
 
-## 4) Engenharia de Software
+# 🏗️ Engenharia de Software
 
-- UML aplicada a sistemas reais: casos de uso, classes e sequencia.
-- Modelagem de APIs REST com contratos claros de request/response.
-- Arquitetura em camadas: Controller, Service e Repository.
-- Boas praticas de codigo limpo: SOLID basico, separacao de responsabilidades e estrutura modular.
-- Versionamento e organizacao de projetos para evolucao incremental.
-
----
-
-## 5) Modelagem e Visualizacao com Mermaid
-
-```mermaid
-flowchart TD
-    A[Cliente Web/Mobile] --> B[Controller]
-    B --> C{Validacao de Entrada}
-    C -- invalida --> D[Retorna 400]
-    C -- valida --> E[Autenticacao JWT]
-    E -- token invalido --> F[Retorna 401]
-    E -- token valido --> G[Autorizacao Basica]
-    G -- negado --> H[Retorna 403]
-    G -- permitido --> I[Service]
-    I --> J[Regras de Negocio]
-    J --> K[Repository]
-    K --> L[(Banco de Dados)]
-    J --> M[Logs e Auditoria]
-    L --> N[Resposta Padronizada]
-    N --> A
-```
+- UML (casos de uso, classes e sequência)
+- Modelagem de APIs REST
+- Arquitetura em camadas (Controller / Service / Repository)
+- Boas práticas de código limpo
+- Estruturação de sistemas reais
 
 ---
 
-## 6) Seguranca Aplicada
+# 🔐 Segurança Aplicada
 
-- Validacao de entrada para reduzir risco de payload malformado.
-- Autenticacao e autorizacao basica com JWT ou mecanismo equivalente.
-- Testes de API com Postman cobrindo cenarios positivos e negativos.
-- Consciencia das vulnerabilidades comuns do OWASP Top 10.
-
----
-
-## 7) Roadmap Tecnico
-
-- Construir APIs REST completas com Java/Spring Boot.
-- Integrar bancos de dados relacionais e consultas estruturadas.
-- Evoluir Spring Boot com DTOs, exceptions e organizacao de camadas.
-- Aplicar Python em automacao e apoio a backend.
-- Modelar sistemas reais com UML antes da implementacao.
-- Aplicar seguranca basica em APIs desde a concepcao.
+- Fundamentos de Cybersecurity (DIO + Cisco)
+- Validação de entrada de dados
+- Autenticação e autorização básica
+- Testes de API com Postman
+- Noções de vulnerabilidades comuns (OWASP básico)
 
 ---
 
-## 8) 🧪 Engineering Lab
+# 🧪 Engineering Lab (Ambiente de Estudo Prático)
 
-### Backend APIs (Java / Spring Boot)
-- Foco: construcao de APIs REST com camadas bem definidas.
-- Evolucao: CRUD, validacao, tratamento de erro e estrutura de projeto.
-- Estudo: controller, service, repository, DTOs e excecoes.
+## Backend APIs
+- APIs REST com Java / Spring Boot
+- APIs com Node.js
+- Estruturação de camadas e lógica backend
 
-### Node.js APIs
-- Foco: rotas REST e manipulacao de dados em backend simples.
-- Evolucao: estrutura de endpoints, middlewares e organizacao de fluxo.
-- Estudo: autenticacao basica, respostas padronizadas e integracao com dados.
+## Python
+- Scripts de automação
+- Processamento de dados
+- Apoio a tarefas backend
 
-### Python (Automacao e Estudos Aplicados)
-- Foco: scripts para automacao e apoio a backend.
-- Evolucao: processamento de dados, leitura de arquivos e tarefas repetitivas.
-- Estudo: logica aplicada e produtividade tecnica.
+## Modelagem
+- Diagramas UML
+- Fluxos de sistema com Mermaid
+- Estruturação de APIs antes da implementação
 
-### Modelagem de Sistemas (UML & Mermaid)
-- Foco: diagramacao antes do codigo.
-- Evolucao: fluxos, APIs, autenticacao e arquitetura backend.
-- Estudo: estrutura de sistemas reais e representacao visual de requisitos.
-
-### API Testing (Postman)
-- Foco: teste de endpoints REST e validacao de respostas.
-- Evolucao: cenarios positivos, negativos e de seguranca basica.
-- Estudo: contratos de API, status code e consistencia de retorno.
-
-### Status
-- Todos os itens representam pratica ativa de engenharia de software em evolucao continua.
+## API Testing
+- Testes com Postman
+- Validação de endpoints
+- Simulação de fluxos reais de sistema
 
 ---
 
-## 9) GitHub Stats - Technical Dashboard
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=5inco-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5inco-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=5inco-dev&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5inco-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5inco-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/5inco-dev/5inco-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/5inco-dev/5inco-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 10) Mindset de Engenharia
+# 🧠 Mindset de Engenharia
 
-- Software deve ser tratado como sistema estruturado.
-- Seguranca deve fazer parte da arquitetura.
-- Codigo limpo deve ser padrao, nao excecao.
-- Sistemas devem ser previsiveis, escalaveis e mantiveis.
-- O objetivo e resolver problemas reais com engenharia.
+- Sistemas devem ser previsíveis e escaláveis
+- Segurança é parte da arquitetura, não um extra
+- Código limpo reduz custo e aumenta manutenção
+- Problemas de negócio devem guiar decisões técnicas
+- Aprendizado contínuo baseado em prática real
 
 ---
 
-## 11) Contato
+# 📫 Contato
 
 <p align="center">
-  <a href="https://github.com/5inco-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/5inco-dev">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/adilson-junior" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/adilson-junior">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dev.adilsonj@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E-mail-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 12) Assinatura
+# ⚡ Assinatura
 
-**Cinco - construindo sistemas com logica, estrutura e seguranca aplicada.**
+> Cinco — construindo sistemas com lógica, estrutura e segurança aplicada.
