@@ -70,11 +70,11 @@ Meu foco é evoluir como engenheiro de software, unindo lógica, arquitetura e s
 
 # 🧰 Stack Tecnológica
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<p>
+Organização por responsabilidades de engenharia para leitura rápida de recrutadores.
+</p>
 
-### 🧠 Backend (Core de atuação)
+### 1) Backend (núcleo principal)
 
 <p>
   <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -82,47 +82,52 @@ Meu foco é evoluir como engenheiro de software, unindo lógica, arquitetura e s
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 💻 Linguagens de Programação
+Foco em construção de APIs, regras de negócio e organização de camadas no servidor.
+
+### 2) APIs e integração de sistemas
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman%20(API%20Testing)-111827?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+Atuação em contratos de API, validação de endpoints e integração com dados de forma previsível.
+
+### 3) Engenharia de software
+
+<p>
+  <img src="https://img.shields.io/badge/UML-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arquitetura%20em%20Camadas-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Code-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-111827?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+Modelagem de sistemas, estruturação de serviços e versionamento orientado a evolução contínua.
+
+### 4) Linguagens de suporte
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-    </td>
-    <td valign="top" width="50%">
+Uso para scripts, automações e suporte à lógica backend.
 
-### 🗄️ Banco de Dados
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### 🔧 Ferramentas de Desenvolvimento
-
-<p>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-111827?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-### 🌐 Frontend (Base de suporte)
+### 5) Frontend básico (suporte)
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-    </td>
-  </tr>
-</table>
+Base complementar para integração com APIs e validação de fluxos ponta a ponta.
 
-### 📱 Diferencial de desenvolvimento mobile
+### 6) Diferencial de aprendizado mobile
 
-- Programação e prática de desenvolvimento diretamente em ambiente Android
-- Uso de celular como ambiente de estudo e prototipagem
-- Flexibilidade para codar, estudar e testar conceitos em qualquer lugar
-- Mentalidade de desenvolvimento contínuo independente de infraestrutura
+- Desenvolvimento e prática técnica também em ambiente Android.
+- Adaptação de estudo e prototipação fora do desktop.
+- Disciplina para manter evolução contínua em qualquer contexto de infraestrutura.
 
 ---
 
