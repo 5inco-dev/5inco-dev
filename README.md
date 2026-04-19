@@ -7,7 +7,7 @@ Backend Engineer em formação | APIs • Arquitetura de Sistemas • Segurança
 </h3>
 
 <p align="center">
-Construindo sistemas seguros, escaláveis e orientados a lógica, estrutura e impacto de negócio.
+Backend orientado a arquitetura, segurança e decisões técnicas conectadas ao negócio.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Construindo sistemas seguros, escaláveis e orientados a lógica, estrutura e im
 
 Sou Adilson Junior, também conhecido como **Cinco**.
 
-Atualmente, sou um desenvolvedor em formação com foco em **backend e engenharia de software**, construindo uma base sólida em APIs, modelagem de sistemas e arquitetura de aplicações.
+Sou desenvolvedor em formação com foco em **backend e engenharia de software**, com base prática em APIs, modelagem e arquitetura de aplicações.
 
 Minha trajetória combina:
 
@@ -30,27 +30,27 @@ Minha trajetória combina:
 - Fundamentos de segurança da informação
 - Análise de sistemas e requisitos de negócio
 
-Tenho interesse em construir sistemas bem estruturados, seguros e escaláveis, sempre alinhando tecnologia com problemas reais.
+Busco construir sistemas seguros, escaláveis e bem estruturados, sempre conectando tecnologia a problemas reais.
 
 ---
 
 # 🎯 Objetivo profissional
 
-Busco oportunidade de estágio ou posição júnior em:
+Busco estágio ou posição júnior em:
 
 - Desenvolvimento Backend
 - Engenharia de Software
 - Segurança de APIs
 - Análise de Sistemas
 
-Meu foco é evoluir como engenheiro de software, unindo lógica, arquitetura e segurança na construção de sistemas reais.
+Objetivo: evoluir como engenheiro de software, unindo lógica, arquitetura e segurança em entregas reais.
 
 ---
 
 # 🎓 Formação e Aprendizado
 
-- **Análise e Desenvolvimento de Sistemas (ADS) — Cruzeiro do Sul**
-  - 3º semestre
+- **Análise e Desenvolvimento de Sistemas (ADS) — Cruzeiro do Sul (3º semestre, em curso)**
+  - Formação principal alinhada ao objetivo de estágio em backend e engenharia de software
 
 - **Bootcamp DIO + Santander**
   - Cybersecurity
@@ -60,10 +60,8 @@ Meu foco é evoluir como engenheiro de software, unindo lógica, arquitetura e s
 - **Cisco Networking Academy**
   - Cybersecurity Fundamentals (em andamento)
 
-- Estudos complementares:
-  - Java / Spring Boot
-  - Node.js
-  - Python
+- **Estudos complementares**
+  - Java / Spring Boot, Node.js e Python
   - Modelagem de sistemas (UML e Mermaid)
 
 ---
@@ -71,63 +69,31 @@ Meu foco é evoluir como engenheiro de software, unindo lógica, arquitetura e s
 # 🧰 Stack Tecnológica
 
 <p>
-Organização por responsabilidades de engenharia para leitura rápida de recrutadores.
+Visão rápida com tecnologias em uso e prática atual.
 </p>
 
-### 1) Backend (núcleo principal)
+| Ecossistema | Tecnologias |
+| --- | --- |
+| **Java** | <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Security-111827?style=flat-square&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-111827?style=flat-square&logo=apachemaven&logoColor=white" /> |
+| **JavaScript/TypeScript** | <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logo=fastify&logoColor=white" /> |
+| **Dados & Persistência** | <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-111827?style=flat-square" /> |
+| **Ferramentas & DevOps** | <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Insomnia-111827?style=flat-square&logo=insomnia&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=white" /> |
 
-<p>
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-Foco em construção de APIs, regras de negócio e organização de camadas no servidor.
-
-### 2) APIs e integração de sistemas
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman%20(API%20Testing)-111827?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-Atuação em contratos de API, validação de endpoints e integração com dados de forma previsível.
-
-### 3) Engenharia de software
-
-<p>
-  <img src="https://img.shields.io/badge/UML-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arquitetura%20em%20Camadas-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean%20Code-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-111827?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-Modelagem de sistemas, estruturação de serviços e versionamento orientado a evolução contínua.
-
-### 4) Linguagens de suporte
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-Uso para scripts, automações e suporte à lógica backend.
-
-### 5) Frontend básico (suporte)
+### Frontend básico (suporte)
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-Base complementar para integração com APIs e validação de fluxos ponta a ponta.
+Base complementar para Integração e Testes End-to-End (E2E).
 
-### 6) Diferencial de aprendizado mobile
+### Diferencial de aprendizado mobile
 
-- Desenvolvimento e prática técnica também em ambiente Android.
-- Adaptação de estudo e prototipação fora do desktop.
-- Disciplina para manter evolução contínua em qualquer contexto de infraestrutura.
+- Prática técnica também em ambiente Android.
+- Continuidade de estudo e prototipação fora do desktop.
+- Disciplina para manter evolução constante em diferentes contextos.
 
 ---
 
@@ -137,41 +103,39 @@ Base complementar para integração com APIs e validação de fluxos ponta a pon
 - Modelagem de APIs REST
 - Arquitetura em camadas (Controller / Service / Repository)
 - Boas práticas de código limpo
-- Estruturação de sistemas reais
+- Versionamento semântico e adoção de Conventional Commits
+- Estruturação de sistemas com foco em manutenção e evolução
 
 ---
 
 # 🔐 Segurança Aplicada
 
 - Fundamentos de Cybersecurity (DIO + Cisco)
-- Validação de entrada de dados
-- Autenticação e autorização básica
+- Validação e saneamento de entrada de dados
+- Autenticação e autorização em nível introdutório
+- Implementação de protocolos de autenticação e padrões de segurança de APIs
 - Testes de API com Postman
 - Noções de vulnerabilidades comuns (OWASP básico)
 
 ---
 
-# 🧪 Engineering Lab (Ambiente de Estudo Prático)
+# 🧪 Laboratório de Engenharia (Ambiente de Estudo Prático)
 
-## Backend APIs
-- APIs REST com Java / Spring Boot
-- APIs com Node.js
-- Estruturação de camadas e lógica backend
+## Módulo Backend APIs
+- ⚙️ Desenvolvimento de APIs REST com Java e Spring Boot para regras de negócio e estrutura em camadas.
+- ⚙️ Desenvolvimento de microsserviços com Node.js, Express e Fastify para serviços escaláveis.
 
-## Python
-- Scripts de automação
-- Processamento de dados
-- Apoio a tarefas backend
+## Módulo Python
+- ⚙️ Automação de rotinas técnicas com scripts para ganho de produtividade.
+- ⚙️ Processamento de dados para apoio a fluxos de backend e integração.
 
-## Modelagem
-- Diagramas UML
-- Fluxos de sistema com Mermaid
-- Estruturação de APIs antes da implementação
+## Módulo de Modelagem
+- ⚙️ Modelagem de domínio com UML para orientar decisões de arquitetura.
+- ⚙️ Mapeamento de fluxos com Mermaid antes da implementação de APIs.
 
-## API Testing
-- Testes com Postman
-- Validação de endpoints
-- Simulação de fluxos reais de sistema
+## Módulo de API Testing
+- ⚙️ Validação de contratos e endpoints com Insomnia/Postman.
+- ⚙️ Simulação de cenários reais de integração e testes de comportamento.
 
 ---
 
@@ -192,13 +156,17 @@ Base complementar para integração com APIs e validação de fluxos ponta a pon
 
 - Sistemas devem ser previsíveis e escaláveis
 - Segurança é parte da arquitetura, não um extra
-- Código limpo reduz custo e aumenta manutenção
+- Código limpo reduz custo e melhora manutenção
 - Problemas de negócio devem guiar decisões técnicas
 - Aprendizado contínuo baseado em prática real
 
 ---
 
 # 📫 Contato
+
+<p align="center">
+Disponível para colaboração técnica, estágio e propostas profissionais em backend e engenharia de software.
+</p>
 
 <p align="center">
   <a href="https://github.com/5inco-dev">
