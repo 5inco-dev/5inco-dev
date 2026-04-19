@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B1220,50:111827,100:1F2937&text=Cinco%20%7C%20Adilson%20Junior&fontColor=E5E7EB&fontSize=36&fontAlignY=36&desc=Backend%20%2B%20Systems%20%2B%20Security%20%2B%20Business%20Analysis&descAlignY=58&descSize=14" />
+  <img width="100%" src="assets/banner-cinco.svg" alt="Cinco engineering banner" />
 </p>
 
 <h3 align="center">
