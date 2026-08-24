@@ -1,93 +1,65 @@
 <p align="center">
-  <img width="100%" src="assets/banner-cinco.svg" alt="Cinco engineering banner" />
-</p>
-
-<h3 align="center">
-Desenvolvedor em formação | APIs REST • Banco de Dados • Engenharia de Software • Liderança Técnica
-</h3>
-
-<p align="center">
-Desenvolvimento orientado a dados, arquitetura escalável e coordenação de equipes técnicas.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Marca-Cinco-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internship-1F2937?style=for-the-badge" />
+  <img width="100%" src="assets/banner-cinco.svg" alt="Cinco — Desenvolvedor em formação" />
 </p>
 
 ---
 
-# 🧠 Sobre mim
+# Adilson Junior — Cinco
 
-Sou Adilson Junior, também conhecido como **Cinco**.
+Desenvolvedor em formação | Especialista em APIs REST, Banco de Dados e Engenharia de Software  
+*Estudante de Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul, Guarulhos, SP*
 
-Sou desenvolvedor em formação especializado em **desenvolvimento backend, modelagem de dados e coordenação técnica**, com prática comprovada em APIs REST, arquitetura de sistemas e liderança de projetos interdisciplinares.
-
-Minha trajetória combina:
-
-- APIs REST (Node.js, Express, Java)
-- Modelagem e otimização de bancos de dados (MySQL, Oracle SQL)
-- Engenharia de software com UML e Mermaid.js
-- Liderança e coordenação de projetos técnicos
-- Arquitetura escalável e decisões de design
-
-Busco construir sistemas robustos, bem estruturados e documentados, sempre alinhando tecnologia a objetivos de negócio e impacto real.
+```
+Sistemas escaláveis, dados bem estruturados, código que funciona e documenta a si mesmo.
+```
 
 ---
 
-# 🎯 Objetivo profissional
+## Sobre
 
-Busco oportunidades em:
-
-- Desenvolvimento Backend e Engenharia de Software
-- Design e Otimização de Bancos de Dados
-- Liderança técnica e coordenação de equipes (Scrum Master)
-- Arquitetura de Sistemas e APIs
-
-Objetivo: evoluir como engenheiro de software sênior, unindo desenvolvimento robusto, decisões de dados e capacidade de liderança técnica em projetos de impacto.
+Especialização prática em **desenvolvimento backend**, **modelagem de dados** e **coordenação técnica** de projetos. Experiência em arquitetura de APIs, normalização relacional e liderança de equipes interdisciplinares. Comprometido com documentação técnica profissional, padrões de engenharia de software e entrega de valor.
 
 ---
 
-# 🎓 Formação e Aprendizado
-
-- **Análise e Desenvolvimento de Sistemas (ADS) — Cruzeiro do Sul (3º semestre, em curso)**
-  - Formação principal alinhada ao objetivo de desenvolvimento backend e arquitetura de sistemas
-
-- **Complementação Técnica**
-  - Java / Spring Boot, Node.js e Python
-  - Modelagem de sistemas (UML e Mermaid.js)
-  - Banco de Dados (MySQL, Oracle SQL)
-  - Bootcamp DIO: estruturas de dados e fundamentos de backend
-
 ---
 
-# 🧰 Stack Tecnológica
+## Stack Técnico
+
+### Linguagens & Frameworks
 
 <p>
-Visão rápida com tecnologias em uso e prática atual.
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61dafb" />
 </p>
 
-| Ecossistema | Tecnologias |
-| --- | --- |
-| **Java** | <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-111827?style=flat-square&logo=apachemaven&logoColor=white" /> |
-| **JavaScript/TypeScript** | <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white" /> |
-| **Banco de Dados** | <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-111827?style=flat-square&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/Modelagem%20ER-111827?style=flat-square" /> <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-111827?style=flat-square" /> |
-| **Engenharia** | <img src="https://img.shields.io/badge/UML-111827?style=flat-square" /> <img src="https://img.shields.io/badge/Mermaid.js-111827?style=flat-square" /> <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white" /> |
-| **Ferramentas & Testes** | <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Insomnia-111827?style=flat-square&logo=insomnia&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=white" /> |
-
-### Frontend básico (suporte)
+### Banco de Dados & Modelagem
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-111827?style=flat-square&logo=oracle&logoColor=f80000" />
+  <img src="https://img.shields.io/badge/Modelagem%20ER-14b8a6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-111827?style=flat-square&logo=java&logoColor=white" />
 </p>
 
-Base complementar para Integração e Testes End-to-End (E2E).
+### Engenharia & Documentação
 
-### Modelagem e Documentação
+<p>
+  <img src="https://img.shields.io/badge/UML-14b8a6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mermaid.js-111827?style=flat-square&logo=mermaid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Code-14b8a6?style=flat-square" />
+</p>
 
-Base técnica para comunicação clara entre stakeholders, especificação de requisitos e documentação viva.
+### Metodologia & Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Scrum-111827?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-111827?style=flat-square&logo=apachenetbeans&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-111827?style=flat-square&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=white" />
+</p>
 
 ---
 
