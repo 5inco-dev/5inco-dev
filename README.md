@@ -55,7 +55,7 @@ Especialização prática em **desenvolvimento backend**, **modelagem de dados**
 <p>
   <img src="https://img.shields.io/badge/Scrum-111827?style=flat-square&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/NetBeans-111827?style=flat-square&logo=apachenetbeans&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-111827?style=flat-square&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
