@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="100%" src="assets/banner-cinco.svg" alt="Cinco — Desenvolvedor em formação" />
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/5inco-dev/5inco-dev/main/assets/banner-cinco.svg" alt="Cinco — Desenvolvedor em formação" />
 
 ---
 
