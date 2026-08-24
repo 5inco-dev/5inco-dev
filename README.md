@@ -3,11 +3,11 @@
 </p>
 
 <h3 align="center">
-Backend Engineer em formação | APIs • Arquitetura de Sistemas • Segurança Aplicada
+Desenvolvedor em formação | APIs REST • Banco de Dados • Engenharia de Software • Liderança Técnica
 </h3>
 
 <p align="center">
-Backend orientado a arquitetura, segurança e decisões técnicas conectadas ao negócio.
+Desenvolvimento orientado a dados, arquitetura escalável e coordenação de equipes técnicas.
 </p>
 
 <p align="center">
@@ -21,48 +21,43 @@ Backend orientado a arquitetura, segurança e decisões técnicas conectadas ao 
 
 Sou Adilson Junior, também conhecido como **Cinco**.
 
-Sou desenvolvedor em formação com foco em **backend e engenharia de software**, com base prática em APIs, modelagem e arquitetura de aplicações.
+Sou desenvolvedor em formação especializado em **desenvolvimento backend, modelagem de dados e coordenação técnica**, com prática comprovada em APIs REST, arquitetura de sistemas e liderança de projetos interdisciplinares.
 
 Minha trajetória combina:
 
-- Desenvolvimento backend (Java, Spring Boot e Node.js)
-- Estruturação de APIs REST
-- Fundamentos de segurança da informação
-- Análise de sistemas e requisitos de negócio
+- APIs REST (Node.js, Express, Java)
+- Modelagem e otimização de bancos de dados (MySQL, Oracle SQL)
+- Engenharia de software com UML e Mermaid.js
+- Liderança e coordenação de projetos técnicos
+- Arquitetura escalável e decisões de design
 
-Busco construir sistemas seguros, escaláveis e bem estruturados, sempre conectando tecnologia a problemas reais.
+Busco construir sistemas robustos, bem estruturados e documentados, sempre alinhando tecnologia a objetivos de negócio e impacto real.
 
 ---
 
 # 🎯 Objetivo profissional
 
-Busco estágio ou posição júnior em:
+Busco oportunidades em:
 
-- Desenvolvimento Backend
-- Engenharia de Software
-- Segurança de APIs
-- Análise de Sistemas
+- Desenvolvimento Backend e Engenharia de Software
+- Design e Otimização de Bancos de Dados
+- Liderança técnica e coordenação de equipes (Scrum Master)
+- Arquitetura de Sistemas e APIs
 
-Objetivo: evoluir como engenheiro de software, unindo lógica, arquitetura e segurança em entregas reais.
+Objetivo: evoluir como engenheiro de software sênior, unindo desenvolvimento robusto, decisões de dados e capacidade de liderança técnica em projetos de impacto.
 
 ---
 
 # 🎓 Formação e Aprendizado
 
 - **Análise e Desenvolvimento de Sistemas (ADS) — Cruzeiro do Sul (3º semestre, em curso)**
-  - Formação principal alinhada ao objetivo de estágio em backend e engenharia de software
+  - Formação principal alinhada ao objetivo de desenvolvimento backend e arquitetura de sistemas
 
-- **Bootcamp DIO + Santander**
-  - Cybersecurity
-  - Banco de Dados
-  - Fundamentos de segurança e infraestrutura
-
-- **Cisco Networking Academy**
-  - Cybersecurity Fundamentals (em andamento)
-
-- **Estudos complementares**
+- **Complementação Técnica**
   - Java / Spring Boot, Node.js e Python
-  - Modelagem de sistemas (UML e Mermaid)
+  - Modelagem de sistemas (UML e Mermaid.js)
+  - Banco de Dados (MySQL, Oracle SQL)
+  - Bootcamp DIO: estruturas de dados e fundamentos de backend
 
 ---
 
@@ -74,10 +69,11 @@ Visão rápida com tecnologias em uso e prática atual.
 
 | Ecossistema | Tecnologias |
 | --- | --- |
-| **Java** | <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Security-111827?style=flat-square&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-111827?style=flat-square&logo=apachemaven&logoColor=white" /> |
-| **JavaScript/TypeScript** | <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Fastify-111827?style=flat-square&logo=fastify&logoColor=white" /> |
-| **Dados & Persistência** | <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-111827?style=flat-square" /> |
-| **Ferramentas & DevOps** | <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Insomnia-111827?style=flat-square&logo=insomnia&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=white" /> |
+| **Java** | <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-111827?style=flat-square&logo=apachemaven&logoColor=white" /> |
+| **JavaScript/TypeScript** | <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white" /> |
+| **Banco de Dados** | <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-111827?style=flat-square&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/Modelagem%20ER-111827?style=flat-square" /> <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-111827?style=flat-square" /> |
+| **Engenharia** | <img src="https://img.shields.io/badge/UML-111827?style=flat-square" /> <img src="https://img.shields.io/badge/Mermaid.js-111827?style=flat-square" /> <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white" /> |
+| **Ferramentas & Testes** | <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Insomnia-111827?style=flat-square&logo=insomnia&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=white" /> |
 
 ### Frontend básico (suporte)
 
@@ -89,53 +85,108 @@ Visão rápida com tecnologias em uso e prática atual.
 
 Base complementar para Integração e Testes End-to-End (E2E).
 
-### Diferencial de aprendizado mobile
+### Modelagem e Documentação
 
-- Prática técnica também em ambiente Android.
-- Continuidade de estudo e prototipação fora do desktop.
-- Disciplina para manter evolução constante em diferentes contextos.
+Base técnica para comunicação clara entre stakeholders, especificação de requisitos e documentação viva.
 
 ---
 
-# 🏗️ Engenharia de Software
+# 🏗️ Engenharia de Software & Modelagem de Dados
 
-- UML (casos de uso, classes e sequência)
-- Modelagem de APIs REST
-- Arquitetura em camadas (Controller / Service / Repository)
-- Boas práticas de código limpo
-- Versionamento semântico e adoção de Conventional Commits
-- Estruturação de sistemas com foco em manutenção e evolução
+- **UML completo**: Casos de uso, diagramas de classe, sequência e estado
+- **Mermaid.js**: Renderização de diagramas como código (documentação viva)
+- **Modelagem relacional**: ER, normalização (até 3FN), integridade referencial
+- **Arquitetura em camadas**: Controller / Service / Repository (padrão MVC/MVVM)
+- **Design de APIs REST**: Contrato claro, versionamento, tratamento de erros
+- **Boas práticas de código**: Clean Code, SOLID, versionamento semântico
+- **Estruturação de sistemas**: Foco em manutenção, escalabilidade e documentação
 
 ---
 
-# 🔐 Segurança Aplicada
+# � Banco de Dados & Modelagem Relacional
 
-- Fundamentos de Cybersecurity (DIO + Cisco)
-- Validação e saneamento de entrada de dados
-- Autenticação e autorização em nível introdutório
-- Implementação de protocolos de autenticação e padrões de segurança de APIs
-- Testes de API com Postman
-- Noções de vulnerabilidades comuns (OWASP básico)
+- MySQL (normalização, integridade referencial, índices)
+- Oracle SQL (sintaxe estendida, funções analíticas)
+- Modelagem ER (Entity-Relationship) e design de schemas
+- Otimização de queries e performance
+- Relacionamentos complexos (1:N, N:N)
+- Testes de integridade e validação de dados
+
+---
+
+# 🎓 Liderança Técnica & Scrum Master
+
+- Coordenação de projetos interdisciplinares
+- Facilitação de equipes de desenvolvimento
+- Organização de sprints e cronogramas técnicos
+- Mediação entre stakeholders e times técnicos
+- Documentação de requisitos e user stories
+- Planejamento e execução de roadmaps de produto
+
+---
+
+---
+
+# 🚀 Destaques de Projetos
+
+## 📊 NEXUM — Tecnologia Educacional para IA e Autonomia Digital
+Liderança de iniciativa interdisciplinar alinhada ao ODS 4, com produção de Carta de Apresentação institucional (Resolução MEC/CNE nº 07/2018), roteiros de discussão e atividades de extensão em escolas. Foco em letramento digital e uso consciente de IA.
+
+**Tecnologias**: Redação técnica, mediação de grupos, análise de requisitos  
+**Resultado**: Impacto em centenas de estudantes; demonstração de liderança e visão sistêmica
+
+---
+
+## 🏥 Sistema de Telemedicina — Engenharia Interdisciplinar
+Projeto acadêmico com documentação UML completa (casos de uso, classes, sequência), diagramas renderizados em HTML via Mermaid.js e formatação profissional em .docx.
+
+**Tecnologias**: UML, Mermaid.js, Java, arquitetura em camadas  
+**Resultado**: Sistema documentado pronto para banca; demonstração de engenharia de software
+
+---
+
+## 🔌 API REST — Registros Acadêmicos
+Backend em Node.js + Express + MySQL para gestão completa de dados acadêmicos com design RESTful.
+
+**Tecnologias**: Node.js, Express, MySQL, APIs REST, normalização relacional  
+**Resultado**: API funcional com endpoints CRUD e modelagem robusta de dados
+
+---
+
+## 📚 Simulado Interativo de Banco de Dados
+Ferramenta React para preparo em Oracle SQL e MySQL com ambiente de prova e feedback interativo.
+
+**Tecnologias**: React, SQL avançado, UX educacional  
+**Resultado**: Plataforma funcional de aprendizado e validação de conhecimento
 
 ---
 
 # 🧪 Laboratório de Engenharia (Ambiente de Estudo Prático)
 
-## Módulo Backend APIs
-- ⚙️ Desenvolvimento de APIs REST com Java e Spring Boot para regras de negócio e estrutura em camadas.
-- ⚙️ Desenvolvimento de microsserviços com Node.js, Express e Fastify para serviços escaláveis.
+## Módulo Backend & APIs
+- ⚙️ Desenvolvimento de APIs REST com Java e Spring Boot, orientadas a casos de uso reais e estrutura em camadas.
+- ⚙️ Microsserviços com Node.js e Express para serviços escaláveis e independentes.
+- ⚙️ Integração entre backend e camadas de dados.
 
-## Módulo Python
-- ⚙️ Automação de rotinas técnicas com scripts para ganho de produtividade.
-- ⚙️ Processamento de dados para apoio a fluxos de backend e integração.
+## Módulo Banco de Dados
+- ⚙️ Modelagem relacional (ER) com normalização e integridade referencial.
+- ⚙️ Queries otimizadas em MySQL e Oracle SQL.
+- ⚙️ Testes de performance e validação de dados.
+- ⚙️ Ferramentas de visualização: Mermaid para diagramas ER.
 
-## Módulo de Modelagem
-- ⚙️ Modelagem de domínio com UML para orientar decisões de arquitetura.
-- ⚙️ Mapeamento de fluxos com Mermaid antes da implementação de APIs.
+## Módulo Frontend (Suporte)
+- ⚙️ React para interfaces interativas e integração com APIs.
+- ⚙️ Testes E2E e validação de funcionalidades.
+
+## Módulo de Modelagem & Documentação
+- ⚙️ UML completo para orientar decisões de arquitetura e banco de dados.
+- ⚙️ Diagramas Mermaid renderizados como código (documentação viva e rastreável).
+- ⚙️ Documentação técnica profissional em markdown e .docx.
 
 ## Módulo de API Testing
 - ⚙️ Validação de contratos e endpoints com Insomnia/Postman.
-- ⚙️ Simulação de cenários reais de integração e testes de comportamento.
+- ⚙️ Simulação de cenários reais de integração.
+- ⚙️ Documentação de especificações técnicas.
 
 ---
 
