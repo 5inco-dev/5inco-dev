@@ -53,8 +53,7 @@ Aplicação React para praticar Oracle SQL e MySQL por meio de questões e exerc
 
 - **LinkedIn:** [linkedin.com/in/adilson-junior-827387293](https://www.linkedin.com/in/adilson-junior-827387293)
 - **GitHub:** [github.com/5inco-dev](https://github.com/5inco-dev)
-- **E-mail:** [PLACEHOLDER_EMAIL]
-- **Portfólio:** [PLACEHOLDER_PORTFOLIO]
+- **E-mail:** [Dev.adilsonj@gmail.com]
 
 ## Descrições para repositórios fixados
 
