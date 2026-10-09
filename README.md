@@ -66,15 +66,3 @@ Aplicação React para praticar Oracle SQL e MySQL por meio de questões e exerc
 | Tutorial/Manual MySQL e PostgreSQL | Manual SBC de instalação, administração, backup, restauração e carga de dados em MySQL e PostgreSQL. |
 | Simulado de banco de dados | Aplicação React para treino de Oracle SQL e MySQL com questões e exercícios de banco de dados. |
 
-## Checklist de ajustes nos repositórios
-
-- [ ] Atualizar o README de cada projeto com objetivo, contexto, escopo, tecnologias e instruções de execução.
-- [ ] Explicar claramente o que foi feito por mim em projetos de equipe.
-- [ ] Adicionar imagens, diagramas ou exemplos que comprovem o funcionamento, quando existirem.
-- [ ] Conferir se os comandos de instalação, configuração e execução estão corretos.
-- [ ] Revisar links, ortografia, nomes dos arquivos e referências a tecnologias realmente usadas.
-- [ ] Adicionar tópicos coerentes a cada repositório, como `mysql`, `postgresql`, `oracle-sql`, `react`, `python`, `uml`, `mermaid`, `backend`, `database` e `scrum`, conforme aplicável.
-- [ ] Remover tópicos genéricos ou tecnologias que não aparecem no projeto.
-- [ ] Fixar os cinco repositórios mais alinhados ao objetivo de backend, banco de dados, modelagem e gestão.
-- [ ] Revisar a descrição curta e o site/demo de cada repositório antes de fixá-lo.
-- [ ] Conferir se não há dados pessoais, credenciais, arquivos `.env` ou informações internas publicados.
