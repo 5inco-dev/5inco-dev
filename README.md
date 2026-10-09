@@ -1,208 +1,79 @@
-<img width="100%" src="https://raw.githubusercontent.com/5inco-dev/5inco-dev/main/assets/banner-cinco.svg" alt="Cinco — Desenvolvedor em formação" />
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/5inco-dev/5inco-dev/main/assets/banner-cinco.svg" alt="Cinco — Desenvolvedor Backend Jr." />
+</p>
 
----
+# Cinco
 
-# Adilson Junior — Cinco
+**Bio do GitHub:** `Cinco | Desenvolvedor Backend Jr. e estudante de ADS, com foco em bancos de dados, requisitos, Scrum e documentação.`
 
-Desenvolvedor em formação | Especialista em APIs REST, Banco de Dados e Engenharia de Software  
-*Estudante de Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul, Guarulhos, SP*
+## Desenvolvedor Backend Jr. | Banco de Dados
 
-```
-Sistemas escaláveis, dados bem estruturados, código que funciona e documenta a si mesmo.
-```
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Cruzeiro do Sul, em Guarulhos-SP. Busco oportunidades para atuar com backend, análise de negócio, levantamento de requisitos, Scrum e gerência de projetos, evoluindo em direção a Scrum Master, gerente de projetos e engenheiro de software.
 
----
+Tenho interesse em **abstrair problemas, explicar soluções e documentar projetos** de forma clara, conectando necessidades de negócio a decisões técnicas.
 
-## Sobre
-
-Especialização prática em **desenvolvimento backend**, **modelagem de dados** e **coordenação técnica** de projetos. Experiência em arquitetura de APIs, normalização relacional e liderança de equipes interdisciplinares. Comprometido com documentação técnica profissional, padrões de engenharia de software e entrega de valor.
-
----
-
----
-
-## Stack Técnico
-
-### Linguagens & Frameworks
+## Stack em destaque
 
 <p>
-  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python%20(em%20desenvolvimento)-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python em desenvolvimento" />
+  <img src="https://img.shields.io/badge/UML%20%2F%20Mermaid-14B8A6?style=flat-square&logo=mermaid&logoColor=white" alt="UML e Mermaid" />
 </p>
 
-### Banco de Dados & Modelagem
+## Projetos em destaque
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20SQL-111827?style=flat-square&logo=oracle&logoColor=f80000" />
-  <img src="https://img.shields.io/badge/Modelagem%20ER-14b8a6?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-111827?style=flat-square&logo=java&logoColor=white" />
-</p>
+### Banco de dados Pokémon FireRed
+Banco relacional normalizado para representar mecânicas do jogo, com DER em Mermaid, script SQL, dados de teste e consultas. **Tecnologias:** MySQL, modelagem relacional, SQL e Mermaid.
 
-### Engenharia & Documentação
+### Patas em Casa
+Frontend para uma ONG de proteção animal, consumindo API externa e organizado para uma experiência de navegação clara. **Tecnologias:** React 19, React Router 6, Axios e Framer Motion.
 
-<p>
-  <img src="https://img.shields.io/badge/UML-14b8a6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mermaid.js-111827?style=flat-square&logo=mermaid&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Code-14b8a6?style=flat-square" />
-</p>
+### Sistema de Telemedicina
+Projeto interdisciplinar em equipe com documentação UML completa para representar requisitos, estrutura e comportamentos do sistema. **Tecnologias:** UML e Mermaid.js.
 
-### Metodologia & Ferramentas
+### Tutorial/Manual MySQL e PostgreSQL
+Material em formato SBC sobre instalação, configuração, administração, backup, restauração e carga de dados. **Tecnologias:** MySQL 8.4 LTS, PostgreSQL 18 e documentação técnica.
 
-<p>
-  <img src="https://img.shields.io/badge/Scrum-111827?style=flat-square&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-111827?style=flat-square&logo=apachenetbeans&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=white" />
-</p>
+### Simulado de banco de dados
+Aplicação React para praticar Oracle SQL e MySQL por meio de questões e exercícios de banco de dados. **Tecnologias:** React, Oracle SQL e MySQL.
 
----
+## Competências de gestão e documentação
 
-# 🏗️ Engenharia de Software & Modelagem de Dados
+- Scrum, organização de atividades e acompanhamento de entregas;
+- levantamento e documentação de requisitos;
+- análise de negócio e tradução de necessidades em soluções técnicas;
+- UML, Mermaid e documentação de arquitetura e processos;
+- comunicação clara para explicar projetos e decisões técnicas;
+- colaboração em projetos acadêmicos e equipes multidisciplinares.
 
-- **UML completo**: Casos de uso, diagramas de classe, sequência e estado
-- **Mermaid.js**: Renderização de diagramas como código (documentação viva)
-- **Modelagem relacional**: ER, normalização (até 3FN), integridade referencial
-- **Arquitetura em camadas**: Controller / Service / Repository (padrão MVC/MVVM)
-- **Design de APIs REST**: Contrato claro, versionamento, tratamento de erros
-- **Boas práticas de código**: Clean Code, SOLID, versionamento semântico
-- **Estruturação de sistemas**: Foco em manutenção, escalabilidade e documentação
+## Contato
 
----
+- **LinkedIn:** [PLACEHOLDER_LINKEDIN]
+- **E-mail:** [PLACEHOLDER_EMAIL]
+- **Portfólio:** [PLACEHOLDER_PORTFOLIO]
 
-# � Banco de Dados & Modelagem Relacional
+## Descrições para repositórios fixados
 
-- MySQL (normalização, integridade referencial, índices)
-- Oracle SQL (sintaxe estendida, funções analíticas)
-- Modelagem ER (Entity-Relationship) e design de schemas
-- Otimização de queries e performance
-- Relacionamentos complexos (1:N, N:N)
-- Testes de integridade e validação de dados
+| Repositório | Descrição curta |
+|---|---|
+| Banco de dados Pokémon FireRed | Banco relacional normalizado com DER em Mermaid, scripts SQL, dados de teste e consultas sobre as mecânicas do jogo. |
+| Patas em Casa | Frontend React para ONG de proteção animal, com consumo de API externa, React Router, Axios e Framer Motion. |
+| Sistema de Telemedicina | Projeto interdisciplinar com documentação UML completa e diagramas desenvolvidos em Mermaid.js. |
+| Tutorial/Manual MySQL e PostgreSQL | Manual SBC de instalação, administração, backup, restauração e carga de dados em MySQL e PostgreSQL. |
+| Simulado de banco de dados | Aplicação React para treino de Oracle SQL e MySQL com questões e exercícios de banco de dados. |
 
----
+## Checklist de ajustes nos repositórios
 
-# 🎓 Liderança Técnica & Scrum Master
-
-- Coordenação de projetos interdisciplinares
-- Facilitação de equipes de desenvolvimento
-- Organização de sprints e cronogramas técnicos
-- Mediação entre stakeholders e times técnicos
-- Documentação de requisitos e user stories
-- Planejamento e execução de roadmaps de produto
-
----
-
----
-
-# 🚀 Destaques de Projetos
-
-## 📊 NEXUM — Tecnologia Educacional para IA e Autonomia Digital
-Liderança de iniciativa interdisciplinar alinhada ao ODS 4, com produção de Carta de Apresentação institucional (Resolução MEC/CNE nº 07/2018), roteiros de discussão e atividades de extensão em escolas. Foco em letramento digital e uso consciente de IA.
-
-**Tecnologias**: Redação técnica, mediação de grupos, análise de requisitos  
-**Resultado**: Impacto em centenas de estudantes; demonstração de liderança e visão sistêmica
-
----
-
-## 🏥 Sistema de Telemedicina — Engenharia Interdisciplinar
-Projeto acadêmico com documentação UML completa (casos de uso, classes, sequência), diagramas renderizados em HTML via Mermaid.js e formatação profissional em .docx.
-
-**Tecnologias**: UML, Mermaid.js, Java, arquitetura em camadas  
-**Resultado**: Sistema documentado pronto para banca; demonstração de engenharia de software
-
----
-
-## 🔌 API REST — Registros Acadêmicos
-Backend em Node.js + Express + MySQL para gestão completa de dados acadêmicos com design RESTful.
-
-**Tecnologias**: Node.js, Express, MySQL, APIs REST, normalização relacional  
-**Resultado**: API funcional com endpoints CRUD e modelagem robusta de dados
-
----
-
-## 📚 Simulado Interativo de Banco de Dados
-Ferramenta React para preparo em Oracle SQL e MySQL com ambiente de prova e feedback interativo.
-
-**Tecnologias**: React, SQL avançado, UX educacional  
-**Resultado**: Plataforma funcional de aprendizado e validação de conhecimento
-
----
-
-# 🧪 Laboratório de Engenharia (Ambiente de Estudo Prático)
-
-## Módulo Backend & APIs
-- ⚙️ Desenvolvimento de APIs REST com Java e Spring Boot, orientadas a casos de uso reais e estrutura em camadas.
-- ⚙️ Microsserviços com Node.js e Express para serviços escaláveis e independentes.
-- ⚙️ Integração entre backend e camadas de dados.
-
-## Módulo Banco de Dados
-- ⚙️ Modelagem relacional (ER) com normalização e integridade referencial.
-- ⚙️ Queries otimizadas em MySQL e Oracle SQL.
-- ⚙️ Testes de performance e validação de dados.
-- ⚙️ Ferramentas de visualização: Mermaid para diagramas ER.
-
-## Módulo Frontend (Suporte)
-- ⚙️ React para interfaces interativas e integração com APIs.
-- ⚙️ Testes E2E e validação de funcionalidades.
-
-## Módulo de Modelagem & Documentação
-- ⚙️ UML completo para orientar decisões de arquitetura e banco de dados.
-- ⚙️ Diagramas Mermaid renderizados como código (documentação viva e rastreável).
-- ⚙️ Documentação técnica profissional em markdown e .docx.
-
-## Módulo de API Testing
-- ⚙️ Validação de contratos e endpoints com Insomnia/Postman.
-- ⚙️ Simulação de cenários reais de integração.
-- ⚙️ Documentação de especificações técnicas.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5inco-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5inco-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/5inco-dev/5inco-dev/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🧠 Mindset de Engenharia
-
-- Sistemas devem ser previsíveis e escaláveis
-- Segurança é parte da arquitetura, não um extra
-- Código limpo reduz custo e melhora manutenção
-- Problemas de negócio devem guiar decisões técnicas
-- Aprendizado contínuo baseado em prática real
-
----
-
-# 📫 Contato
-
-<p align="center">
-Disponível para colaboração técnica, estágio e propostas profissionais em backend e engenharia de software.
-</p>
-
-<p align="center">
-  <a href="https://github.com/5inco-dev">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/adilson-junior">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dev.adilsonj@gmail.com">
-    <img src="https://img.shields.io/badge/E-mail-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-# ⚡ Assinatura
-
-> Cinco — construindo sistemas com lógica, estrutura e segurança aplicada.
+- [ ] Atualizar o README de cada projeto com objetivo, contexto, escopo, tecnologias e instruções de execução.
+- [ ] Explicar claramente o que foi feito por mim em projetos de equipe.
+- [ ] Adicionar imagens, diagramas ou exemplos que comprovem o funcionamento, quando existirem.
+- [ ] Conferir se os comandos de instalação, configuração e execução estão corretos.
+- [ ] Revisar links, ortografia, nomes dos arquivos e referências a tecnologias realmente usadas.
+- [ ] Adicionar tópicos coerentes a cada repositório, como `mysql`, `postgresql`, `oracle-sql`, `react`, `python`, `uml`, `mermaid`, `backend`, `database` e `scrum`, conforme aplicável.
+- [ ] Remover tópicos genéricos ou tecnologias que não aparecem no projeto.
+- [ ] Fixar os cinco repositórios mais alinhados ao objetivo de backend, banco de dados, modelagem e gestão.
+- [ ] Revisar a descrição curta e o site/demo de cada repositório antes de fixá-lo.
+- [ ] Conferir se não há dados pessoais, credenciais, arquivos `.env` ou informações internas publicados.
